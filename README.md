@@ -10,7 +10,7 @@ This project is an interactive dashboard built with Power BI to help the coffee 
 - Sales revenue per coffee type, hour of the day
 - Seasonal trends
 ## Dashboard overview!
-[Dashboard Screenshot](dashboard screenshot.png)
+[Dashboard Screenshot](dashboard_screenshot.png)
 
 - 
 ## ▶️ How to Use
